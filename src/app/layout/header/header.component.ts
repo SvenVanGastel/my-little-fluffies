@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class HeaderComponent {
   private _title: string;
   constructor() {
-    this._title ='Pet Tinder'
+    this._title ='My little fluffies'
   }
 
   get title(){
